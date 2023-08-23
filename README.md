@@ -4,7 +4,7 @@ Welcome to the Alien Invasion Game repository! This is a simple game developed u
 
 ## Getting Started
 
-To play the game, follow these steps:
+_To play the game, follow these steps_:
 
 1. Clone the repository: `git clone https://github.com/khethan123/Alien_invasion_game.git`
 2. Navigate to the project directory: `cd Alien_invasion_game`
@@ -23,13 +23,13 @@ In Alien Invasion Game, you control a spaceship that can move horizontally at th
 
 
 ## Screenshots
-  [Gameplay Screenshot]("C:\Users\Chethan\OneDrive\Pictures\Screenshots\Screenshot (32).png")
-
+  Gameplay Screenshot
+![Gameplay Screenshot](https://github.com/khethan123/Alien_invasion_game/assets/100506743/29eef12a-398c-449d-91bd-da833e1ab6f3)
 
 ## Features
-Intuitive controls and engaging gameplay.
-Multiple levels with increasing difficulty.
-Scoring system to track your performance.
+* Intuitive controls and engaging gameplay.
+* Multiple levels with increasing difficulty.
+* Scoring system to track your performance.
 
 
 ## Contributions
